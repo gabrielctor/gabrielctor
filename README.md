@@ -2,7 +2,7 @@
 
 - Software Engineering Student
 - Technology enthusiast with emphasis on programming and data engineering
-- Intern at Plena Alimentos
+- Systems Intern at Plena Alimentos
 
 ## Language and Tools
 <div style="display: inline">

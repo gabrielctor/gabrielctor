@@ -1,7 +1,7 @@
 # 👋 Hi there!
 
 - Software Engineering Student
-- Technology enthusiast with emphasis on programming and data engineering
+- Technology enthusiast with emphasis on programming
 - Systems Intern at Plena Alimentos
 
 ## Language and Tools

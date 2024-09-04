@@ -1,7 +1,7 @@
 # 👋 Olá!
 
 - Estudante de Análise e Desenvolvimento de Sistemas
-- Sou entusiasta de tecnologia com ênfase em programação de dados
+- Sou entusiasta de tecnologia com ênfase em Programação e Dados
 - Assistente de Sistemas na Plena Alimentos
 
 ## Linguagens e Ferramentas

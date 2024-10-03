@@ -1,8 +1,6 @@
 # 👋 Olá!
 
-- Estudante de Análise e Desenvolvimento de Sistemas
-- Sou entusiasta de tecnologia com ênfase em Programação e Dados
-- Assistente de Sistemas na Plena Alimentos
+Sou entusiasta de tecnologia com ênfase em desenvolvimento e dados, trabalho com criação e manutenção de aplicações focadas em automação e análise de dados.
 
 ## Linguagens e Ferramentas
 <div style="display: inline">
@@ -12,10 +10,5 @@
   <img align="center" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img align="center" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
   <img align="center" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </div><br/>
-
-## Contato
-<div>
-  <a href = "mailto:gabrielcvtorquato@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielctor" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>

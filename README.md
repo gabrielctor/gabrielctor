@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-Sou entusiasta de tecnologia com ênfase em desenvolvimento e dados, trabalho com criação e manutenção de aplicações focadas em automação e análise de dados.
+Sou entusiasta de tecnologia com ênfase em automação e dados, trabalho com criação e manutenção de aplicações focadas em automação e análise de dados.
 
 ## Linguagens e Ferramentas
 <div style="display: inline">

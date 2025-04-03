@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-Sou entusiasta de tecnologia com ênfase em automação e dados, trabalho com desenvolvimento e manutenção de aplicações RPA e Engenharia de Dados.
+Sou entusiasta de tecnologia com ênfase em automação e dados, trabalho com desenvolvimento de aplicações RPA e Engenharia de Dados.
 
 ## Linguagens e Ferramentas
 <div style="display: inline">

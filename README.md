@@ -1,13 +1,12 @@
-# 👋 Olá!
+# 👋 Hello!
 
-Sou apaixonado por automação e dados, sempre em busca de soluções inovadoras que gerem impacto real. Meu foco está no aprimoramento contínuo das minhas habilidades técnicas, explorando novas formas de otimizar processos e extrair valor dos dados.
+My main interests are automation and data, always seeking innovative solutions that generate real impact. Focused on continuously improving my technical skills, I continue to explore new ways to improve processes and extract value from data.
 
-Atuo no desenvolvimento de aplicações de RPA (Robotic Process Automation) para extração de dados de APIs e documentos, automação de fluxos e otimização de processos. Além disso, sou responsável pela criação, gestão e manutenção de relatórios e ferramentas de dados.
+I work developing RPA (Robotic Process Automation) applications for removing data from APIs and documents, automating workflows, and optimizing processes. I'm also responsible for creating, managing, and maintaining reports and data tools, as well as building data pipelines with ETL processes.
 
 ## Linguagens e Ferramentas
 <div style="display: inline">
   <img align="center" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-  <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img align="center" alt="sqlserver" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40"/>
   <img align="center" alt="aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   <img align="center" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
